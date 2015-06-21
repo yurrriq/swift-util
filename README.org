@@ -1,0 +1,8 @@
+#+OPTIONS: toc:nil
+
+* swift-util
+Useful odd and ends for [[https://developer.apple.com/swift/][Swift]].
+
+** Strings
+- [[./NSAttributedString/][~NSAttributedString~]]
+  + [[./NSAttributedString/join/][join()]]
